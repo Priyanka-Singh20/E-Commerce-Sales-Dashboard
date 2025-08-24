@@ -30,7 +30,7 @@
 ● California: 🚀 $457.69K (top-performing state, major revenue hub) <br/>
 ● Other states: Lower to moderate contribution (~$0.92K to $229.30K). <br/>
 
-📌 Key Insight: California is the primary growth driver.Other states show moderate to low sales, highlighting California as the major growth hub. <br/> 
+📌 **Key Insight:** California is the primary growth driver.Other states show moderate to low sales, highlighting California as the major growth hub. <br/> 
 ✅Current Year vs Last Year comparisons
 
 ✅Key KPIs to track business growth
