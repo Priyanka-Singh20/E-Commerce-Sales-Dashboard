@@ -1,4 +1,4 @@
-<img width="2858" height="22" alt="image" src="https://github.com/user-attachments/assets/d36bf224-2320-466a-bfed-2ae4bcff4438" /># 📌 E-Commerce-Sales-Dashboard
+# 📌 E-Commerce-Sales-Dashboard
 This project is an Interactive **E-commerce Sales Dashboard** created to monitor and analyze sales, profit, orders, and customer trends across multiple years.It helps businesses identify high-performing products, profitable regions, and sales growth opportunities.
 ## 📊 **Project Objective:**<br/>
 This report provides insights into KPI's, Year over Year comparisions, Sales and Profit Analysis,Profit based on Category,Sales Share based on Category, Sales by State, Sub-Category by Sales to optimize business decision in Ecommerce Sales.It helps businesses track **growth trends, profitability challenges, regional performance, and market opportunities**, supporting data-driven business decisions using Microsoft Excel. 
