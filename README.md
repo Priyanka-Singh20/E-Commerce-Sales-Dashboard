@@ -9,13 +9,33 @@ This report provides insights into KPI's, Year over Year comparisions, Sales and
 #### **4.Which customer segment is most valuable to the business?**
 #### **5.Why are profit margins declining despite higher sales growth?**
 
-
 ## 📂 Dataset
-● The analysis is based on **Ecommerce Sales Data (2011–2014)** with details on: 
-Row ID,	Order ID,	Year	Order, Date	Ship, Date	Ship Mode,	Customer ID,	Customer Name,	Segment,	Country,	City,	State,	Postal, Code,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales	Quantity,	Discount,	Profit.<br/>
+● The analysis is based on **Ecommerce Sales Data (2011–2014)** with details on: <br/>
+Row ID,	Order ID,	Year,	Order Date,	Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment,	Country,	City,	State,	Postal, Code,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales	Quantity,	Discount,	Profit.<br/>
 ● Files : Ecommerce_Sales_Analysis.xlsx
 
+## 🔁 Data-Preprocessing
+**Created New Columns** –<br/>
+ ● Extracted Year, Month, Quarter from Order Date for time-based analysis.<br/>
+ ● Added Profit Margin % measures (Calcualted Field) in Excel
+ 
 ## 🔎 Key Highlights of the Report:
+🔑 **Key KPIs to track business growth** <br/>
+**Total Sales:** 💰 $22,97,200.86, 
+**YoY Growth:** 📈 +20.62% <br/>
+**Total Profit:** 💵 $286,397.02, 
+**YoY Growth:** 📈 +14.41% <br/>
+**Quantity Sold:** 📦 37,873 units, 
+**YoY Growth:** 📈 +27.45% <br/>
+**Total Orders:** 🛒 9,994, 
+**YoY Growth:** 📈 +28.64% <br/>
+**Profit Margin:** 📊 12.47%, 
+**YoY Change:** 🔻 -5.15% <br/>
+(Profit margin declined despite strong growth in sales, quantity, and orders)
+
+📌 **Key Insight:** <br/>
+The business is scaling in revenue and order volume, but declining profit margin indicating rising costs, discounts, or low-margin products gaining share.<br/>
+
 📈 **Sales & Profit Analysis (Monthly Trends from 2011–2014)** <br/>
 ● **Seasonality :** <br/>
  ● Peaks observed in **November & December**, likely due to holiday/seasonal sales impact<br/>
@@ -23,7 +43,7 @@ Row ID,	Order ID,	Year	Order, Date	Ship, Date	Ship Mode,	Customer ID,	Customer N
 ● **Observation :** <br/>
  ● Sales volume is steadily increasing by 2014 compared to earlier years, but profit margin is not growing proportionally, indicating higher operational costs or discounts during peak seasons.<br/>
  
-📂 **Category-Wise Analysis**<br/>
+📂 **Category-Wise Analysis** <br/>
 **Profit Contribution** <br/>
 ● Technology: $145.45K (highest profit contributor)<br/>
 ● Office Supplies: $122.49K<br/>
@@ -50,12 +70,44 @@ Row ID,	Order ID,	Year	Order, Date	Ship, Date	Ship Mode,	Customer ID,	Customer N
 4.Tables: $206.97K <br/> 
 5.Binders: $203.41K <br/> 
 
-📌 **Key Insight:**<br/>
+📌 **Key Insight:** <br/>
 👉 These categories represent core drivers of overall revenue.<br/>
 Phones & Chairs dominate sales.
 Furniture items (Chairs, Tables) generate strong sales but weak profit margins.
 Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 
-✅Current Year vs Last Year comparisons
+🎛 **Dashboard Filters**<br/>
+**Year:** (2011 – 2014)
+**Region:** Central, East, South, West
+**Segment:** Consumer, Corporate, Home Office
+📌 Enables dynamic slicing of data across time, geography, and customer segments for in-depth analysis.
 
-✅Key KPIs to track business growth
+## 💡 Business Insights & Recommendations
+✔️ **Sales & Orders are growing steadily** - Strong YoY growth across sales, orders, and quantity. <br/>
+✔️ **Profit margins are shrinking** - Signaling higher costs, discounts, or unprofitable product mix. <br/>
+✔️ **Furniture drives sales but not profit** – Cost structure needs review.  <br/>
+✔️ **Phones & Chairs** - Dominate revenue and should be prioritized in marketing & inventory.<br/>
+✔️ **California is the strongest region** – Strategies used here can be scaled to other regions.<br/>
+✔️ **Current Year vs Last Year comparisons** - 2013–2014 show consistent growth opportunities for the business.<br/>
+
+ ## ⚡ Tools & Techniques Used: 
+- **Excel** – Dashboard creation & visualization  <br/>
+- **Data Analysis** – KPI tracking, profitability analysis, segmentation  <br/>
+- **Business Intelligence** – Actionable insights for decision-making, DAX calculations for advanced measures<br/>
+- **Data Storytelling** – Interactive Dashboard design with filters, charts, and KPIs for Communicating trends & opportunities clearly. Charts - To present data in a clear and simple way,
+Slicers - To create a user-friendly and interactive experience.
+
+## 🚀 Value of the Dashboard
+
+This dashboard enables:
+
+Quick monitoring of business performance
+
+Identification of profitable vs. loss-making categories
+
+Tracking of regional and seasonal sales patterns
+
+Data-driven decision-making for marketing, pricing, and inventory
+
+
+✅ This project showcases data visualization, analytics, and decision-making skills that
