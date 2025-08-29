@@ -94,18 +94,24 @@ Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 - **Excel** – Dashboard creation & visualization  <br/>
 - **Data Analysis** – KPI tracking, profitability analysis, segmentation  <br/>
 - **Business Intelligence** – Actionable insights for decision-making, DAX calculations for advanced measures<br/>
-- **Data Storytelling** – Interactive Dashboard design with filters, charts, and KPIs for Communicating trends & opportunities clearly. Charts - To present data in a clear and simple way,
+- **Data Visual Storytelling** – Designed a dynamic and interactive dashboard with Pivot tables,Filters(Slicers), Charts, and KPIs for Communicating trends & better decision making. Charts - To present data in a clear and simple way,
 Slicers - To create a user-friendly and interactive experience.
 
-# 
+## 📷  Dashboard
+Excel Dashboard for Visualization.
+<img width="1366" height="768" alt="Ecommerce-Sales-Analysis" src="https://github.com/user-attachments/assets/19418b8d-cac5-41c6-b484-486aa11e651a" />
 
+## 🚀 Value of the Dashboard  
+This dashboard empowers businesses to:  
+- Monitor **sales, profit, and performance KPIs**  
+- Spot **profitable vs. loss-making categories**  
+- Analyze **seasonal and regional trends**  
+- Make **data-driven decision-making for marketing, pricing, and inventory decisions**  
 
-## 🚀 Value of the Dashboard
-This dashboard enables:
-Quick monitoring of business performance
-Identification of profitable vs. loss-making categories
-Tracking of regional and seasonal sales patterns
-Data-driven decision-making for marketing, pricing, and inventory
+📈 This project helped me strengthen my skills in data visualization, business intelligence, and storytelling with data.
 
-
-✅ This project showcases data visualization, analytics, and decision-making skills that
+## Author & Contact
+Priyanka Singh
+Aspiring Data Analyst
+Email: singhpriyanka2092@gmail.com
+Linkedin: https://www.linkedin.com/in/priyanka-singh-2a240311b
