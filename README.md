@@ -97,16 +97,14 @@ Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 - **Data Storytelling** – Interactive Dashboard design with filters, charts, and KPIs for Communicating trends & opportunities clearly. Charts - To present data in a clear and simple way,
 Slicers - To create a user-friendly and interactive experience.
 
+# 
+
+
 ## 🚀 Value of the Dashboard
-
 This dashboard enables:
-
 Quick monitoring of business performance
-
 Identification of profitable vs. loss-making categories
-
 Tracking of regional and seasonal sales patterns
-
 Data-driven decision-making for marketing, pricing, and inventory
 
 
