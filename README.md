@@ -72,20 +72,20 @@ The business is scaling in revenue and order volume, but declining profit margin
 
 📌 **Key Insight:** <br/>
 👉 These categories represent core drivers of overall revenue.<br/>
-Phones & Chairs dominate sales.
-Furniture items (Chairs, Tables) generate strong sales but weak profit margins.
+Phones & Chairs dominate sales.<br/>
+Furniture items (Chairs, Tables) generate strong sales but weak profit margins.<br/>
 Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 
 📊 **Segment Performance (General Insights)** <br/>
-The **Consumer Segment** is the **best performing segment** in terms of **total sales and profit contribution**.
+The **Consumer Segment** is the **best performing segment** in terms of **total sales and profit contribution**.<br/>
 ● **High Sales Volume** – Consumers purchase more frequently. <br/>
 ● **Profitable Sub-Categories** – They buy phones, accessories, and office supplies, which are high-margin. <br/>
 ● **Market Potential** – This segment continues to grow faster than Corporate and Home Office. <br/>
 
 🎛 **Dashboard Filters**<br/>
-**Year:** (2011 – 2014)
-**Region:** Central, East, South, West
-**Segment:** Consumer, Corporate, Home Office
+**Year:** (2011 – 2014) <br/>
+**Region:** Central, East, South, West<br/>
+**Segment:** Consumer, Corporate, Home Office<br/>
 📌 Enables dynamic slicing of data across time, geography, and customer segments for in-depth analysis.
 
 ## 💡 Business Insights & Recommendations
