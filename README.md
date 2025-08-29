@@ -3,11 +3,11 @@ This project is an Interactive **E-commerce Sales Dashboard** created to monitor
 ## 📊 **Project Objective:**<br/>
 This report provides insights into KPI's, Year over Year comparisions, Sales and Profit Analysis,Profit based on Category,Sales Share based on Category, Sales by State, Sub-Category by Sales to optimize business decision in Ecommerce Sales.It helps businesses track **growth trends, profitability challenges, regional performance, and market opportunities**, supporting data-driven business decisions using Microsoft Excel. 
 ## 🔍 Business Problem
-#### **1.What are the overall sales, profit, and order trends over time?**
-#### **2.Which product categories and sub-categories generate the highest sales and profit?**
-#### **3.How does performance vary across regions and states?**
-#### **4.Which customer segment is most valuable to the business?**
-#### **5.Why are profit margins declining despite higher sales growth?**
+#### **1.Why are profit margins declining despite higher sales growth?**
+#### **2.What are the overall sales, profit, and order trends over time?**
+#### **3.Which product categories and sub-categories generate the highest sales and profit?**
+#### **4.How does performance vary across regions and states?**
+#### **5.Which customer segment is most valuable to the business?**
 
 ## 📂 Dataset
 ● The analysis is based on **Ecommerce Sales Data (2011–2014)** with details on: <br/>
@@ -76,6 +76,12 @@ Phones & Chairs dominate sales.
 Furniture items (Chairs, Tables) generate strong sales but weak profit margins.
 Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 
+📊 **Segment Performance (General Insights)** <br/>
+The **Consumer Segment** is the **best performing segment** in terms of **total sales and profit contribution**.
+● **High Sales Volume** – Consumers purchase more frequently. <br/>
+● **Profitable Sub-Categories** – They buy phones, accessories, and office supplies, which are high-margin. <br/>
+● **Market Potential** – This segment continues to grow faster than Corporate and Home Office. <br/>
+
 🎛 **Dashboard Filters**<br/>
 **Year:** (2011 – 2014)
 **Region:** Central, East, South, West
@@ -85,7 +91,7 @@ Storage and Binders show consistent demand, contributing to steady revenue.<br/>
 ## 💡 Business Insights & Recommendations
 ✔️ **Sales & Orders are growing steadily** - Strong YoY growth across sales, orders, and quantity. <br/>
 ✔️ **Profit margins are shrinking** - Signaling higher costs, discounts, or unprofitable product mix. <br/>
-✔️ **Furniture drives sales but not profit** – Cost structure needs review.  <br/>
+✔️ **Furniture segment drives sales but delivers lowest  profit** – Cost structure needs review.  <br/>
 ✔️ **Phones & Chairs** - Dominate revenue and should be prioritized in marketing & inventory.<br/>
 ✔️ **California is the strongest region** – Strategies used here can be scaled to other regions.<br/>
 ✔️ **Current Year vs Last Year comparisons** - 2013–2014 show consistent growth opportunities for the business.<br/>
