@@ -111,7 +111,7 @@ This dashboard empowers businesses to:
 📈 This project helped me strengthen my skills in data visualization, business intelligence, and storytelling with data.
 
 ## Author & Contact
-Priyanka Singh
-Aspiring Data Analyst
-Email: singhpriyanka2092@gmail.com
-Linkedin: https://www.linkedin.com/in/priyanka-singh-2a240311b
+Priyanka Singh <br/>
+Aspiring Data Analyst <br/>
+Email: singhpriyanka2092@gmail.com <br/>
+Linkedin: https://www.linkedin.com/in/priyanka-singh-2a240311b 
