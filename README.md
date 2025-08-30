@@ -99,9 +99,8 @@ The **Consumer Segment** is the **best performing segment** in terms of **total 
  ## ⚡ Tools & Techniques Used: 
 - **Excel** – Dashboard creation & visualization  <br/>
 - **Data Analysis** – KPI tracking, profitability analysis, segmentation  <br/>
-- **Business Intelligence** – Actionable insights for decision-making, DAX calculations for advanced measures<br/>
-- **Data Visual Storytelling** – Designed a dynamic and interactive dashboard with Pivot tables,Filters(Slicers), Charts, and KPIs for Communicating trends & better decision making. Charts - To present data in a clear and simple way,
-Slicers - To create a user-friendly and interactive experience.
+- **Business Intelligence** – Actionable insights for decision-making, calculated field for advanced measures, YoY Calculation.<br/>
+- **Data Visual Storytelling** – Designed a dynamic and interactive dashboard with Pivot tables, Filters(Slicers), Custom Charts, Custom Maps, Maps Formatting, Spaklines and KPIs for   Communicating trends & better decision making. Charts - To present data in a clear and simple way, Slicers - To create a user-friendly and interactive experience.
 
 ## 📷  Dashboard
 Excel Dashboard for Visualization.
